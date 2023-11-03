@@ -1,6 +1,6 @@
 # Ecofrontiers ReFi Map
 
-The [Ecofrontiers https://ecofrontiers.xyz/) Map is an application enabling the discovery and trade of green crypto-assets across the planet. 
+The [Ecofrontiers](https://ecofrontiers.xyz/) Map is an application enabling the discovery and trade of green crypto-assets across the planet. 
 
 ## Why is this repository empty?
 Ecofrontiers has recently deployed a first functioning prototype of their ReFi Asset Map using Heroku. You may check it out here. While we remain working on developping the application further, the repository remains closed. However, transparency is important to us, and if you would like to request access to the source code of this prototype, you may reach out to louise@curvelabs.eu
@@ -22,7 +22,7 @@ The Map is being developed in three phases:
 ## What has been done so far 🧑‍💻
 A first functioning prototype of the Ecofrontiers Map has been deployed using Heroku. The team has developed this first version of the Map using MongoDB and Mapbox. The complete stack is JavaScript, HTML, CSS, and Python. The Map displays eight different asset providers, and six asset types, for a total of 26 assets to discover. We also added a filtering feature that enables the search for specific assets according to their type, and issuer. See picture below to get a high-level understanding of the architecture of the application right before it got deployed to Heroku.
 
-Beyond this map prototype, Ecofrontiers is a research and advocacy program to advance the potential of Web3 technologies in natural capital markets. Our first campaign and associated industry report, “New Frontiers in Eco-Capitalism,” targets environmental policy-makers, green funds, and environmental projects to improve the conditions for natural capital production at scale. A [sample chapter(https://mirror.xyz/ecofrontiers.eth/zkh2LoADInAgr7GLbXnsuUOEcwJKFE4GuUSYuYU22io) unveiling the **first mapping of green crypto-assets** has been published on October 30th. This mapping serves as the basis for the classification of the assets displayed on the map. 
+Beyond this map prototype, Ecofrontiers is a research and advocacy program to advance the potential of Web3 technologies in natural capital markets. Our first campaign and associated industry report, “New Frontiers in Eco-Capitalism,” targets environmental policy-makers, green funds, and environmental projects to improve the conditions for natural capital production at scale. A [sample chapter](https://mirror.xyz/ecofrontiers.eth/zkh2LoADInAgr7GLbXnsuUOEcwJKFE4GuUSYuYU22io) unveiling the **first mapping of green crypto-assets** has been published on October 30th. This mapping serves as the basis for the classification of the assets displayed on the map. 
 
 You may discover the outline of the report on [Ecofrontiers’ One-Pager](https://www.notion.so/Ecofrontiers-8277c23c652a41729400973a360cf262).
 
