@@ -1,6 +1,6 @@
 # Ecofrontiers ReFi Map
 
-The [Ecofrontiers](https://ecofrontiers.xyz/) Map is an application enabling the discovery and trade of green crypto-assets across the planet. 
+The [Ecofrontiers https://ecofrontiers.xyz/) Map is an application enabling the discovery and trade of green crypto-assets across the planet. 
 
 ## Why is this repository empty?
 Ecofrontiers has recently deployed a first functioning prototype of their ReFi Asset Map using Heroku. You may check it out here. While we remain working on developping the application further, the repository remains closed. However, transparency is important to us, and if you would like to request access to the source code of this prototype, you may reach out to louise@curvelabs.eu
