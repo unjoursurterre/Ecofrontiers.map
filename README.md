@@ -3,7 +3,7 @@
 The [Ecofrontiers](https://ecofrontiers.xyz/) Map is an application enabling the discovery and trade of green crypto-assets across the planet. 
 
 ## Why is this repository empty?
-Ecofrontiers has recently deployed a first functioning prototype of their ReFi Asset Map using Heroku. You may check it out here. While we are working on developping the application further, the repository remains closed. However, as transparency is important to us, and if you would like to request access to the source code of this prototype, you may reach out to louise@curvelabs.eu . Otherwise, the Ecofrontiers Map repository will soon become public in the upcoming months.
+Ecofrontiers has recently deployed a first functioning prototype of their ReFi Asset Map using Heroku. You may check it out here. While we are working on developping the application further, the repository remains closed. However, as transparency is important to us, if you would like to request access to the source code of this prototype, you may reach out to louise@curvelabs.eu . Otherwise, the Ecofrontiers Map repository will soon become public in the upcoming months.
 
 ## Vision 🌍
 Without substantial public and private investment, we won’t be able to protect the biosphere at the scale it needs. The emergent Web3 natural capital asset market is promising, but fractured. Assets are hard to find, and hard to trade. With its Map, [Ecofrontiers](https://mirror.xyz/ecofrontiers.eth/TYJd-4ktkw4gmpgPbxKIlgPCEloTKvT1fuVLIL_SiyQ) aims to offer an alternative to the current state of the decentralized environmental asset market, where:
